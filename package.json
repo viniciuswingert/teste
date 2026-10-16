@@ -1,0 +1,16 @@
+{
+  "name": "software-barbearia",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Consultoria de visagismo com IA para barbearia",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.135.0"
+  }
+}
